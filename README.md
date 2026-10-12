@@ -58,3 +58,9 @@ All examples in this repository use fictional data for learning and demonstratio
 An Excel-based SAP Accounts Payable project demonstrating invoice status monitoring, ageing analysis, blocked invoice tracking, and dashboard reporting using fictional data.
 
 **[View Excel Dashboard](SAP_AP_Invoice_Tracking_Dashboard.xlsx)**
+
+### 2. Vendor Reconciliation & GR/IR Analysis
+
+An Excel-based SAP Accounts Payable portfolio project demonstrating vendor statement reconciliation, GR/IR open-item analysis, invoice discrepancies, and reconciliation reporting using fictional data.
+
+[View Vendor Reconciliation & GR/IR Dashboard](SAP_AP_Vendor_Reconciliation_GRIR_Dashboard.xlsx)
