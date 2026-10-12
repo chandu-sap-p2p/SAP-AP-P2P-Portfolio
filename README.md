@@ -42,8 +42,19 @@ Fictional case studies covering duplicate invoice checks, price and quantity var
 
 ## Data Disclaimer
 
+
+
 All examples in this repository use fictional data for learning and demonstration. No confidential company, supplier, or customer information is included.
 
 ---
 
 **Purpose:** Demonstrate practical Accounts Payable knowledge, analytical skills, and process understanding through portfolio projects.
+
+
+## Featured Project
+
+### [AP Invoice Tracking and Ageing Dashboard](projects/ap-invoice-dashboard/README.md)
+
+An Excel-based SAP Accounts Payable project demonstrating invoice status monitoring, ageing analysis, blocked invoice tracking, and dashboard reporting using fictional data.
+
+**[View Excel Dashboard](SAP_AP_Invoice_Tracking_Dashboard.xlsx)**
